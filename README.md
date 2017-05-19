@@ -1,2 +1,2 @@
 # qyweixin
-wechat util for java developers
+company wechat util for java developers
